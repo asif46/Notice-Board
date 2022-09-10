@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557286550225",
+    "firebase_url": "https://notice-board-app-2afdd-default-rtdb.firebaseio.com",
+    "project_id": "notice-board-app-2afdd",
+    "storage_bucket": "notice-board-app-2afdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557286550225:android:3ed068e0558016ced573f0",
+        "android_client_info": {
+          "package_name": "com.example.notification_board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557286550225-gobl6ijbjpved66pii91kco6i4q8tul1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkaqKx0X0EdJ4GzuF3l2qGf_8XeF3B5Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557286550225-gobl6ijbjpved66pii91kco6i4q8tul1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
